@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Generated intermediate for the PDF (the PDF itself is committed)
+notes/procedure.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
