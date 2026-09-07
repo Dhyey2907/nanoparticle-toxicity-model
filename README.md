@@ -85,6 +85,16 @@ Tests:
 pytest -v
 ```
 
+### The notebook
+
+`notebooks/Nanoparticle_Toxicity_Complete_Project.ipynb` walks through the
+entire project in order — raw data cleaning, preprocessing, EDA, training,
+evaluation and prediction — with every output and figure already saved in it.
+It is the easiest way to read the whole project top to bottom.
+
+The last cell re-runs `src/train_models.py` and asserts the notebook produces
+exactly the same numbers, so the notebook and the pipeline cannot drift apart.
+
 ---
 
 ## 4. Folder structure
@@ -104,11 +114,17 @@ nanoparticle-toxicity/
 │   ├── eda.py              steps 6 and 7
 │   ├── train_models.py     steps 8 to 12
 │   └── predict.py          step 14
+├── notebooks/              the whole project as one runnable notebook
+├── dataset/                the raw and cleaned datasets as CSV
 ├── models/best_model.joblib
 ├── results/                metrics CSVs + all the figures
 ├── tests/test_pipeline.py
 └── notes/BUG_SWEEP.md      what we found while testing
 ```
+
+Two PDFs are included: `Nanoparticle_Toxicity_Project_Procedure.pdf` (the
+step-by-step procedure report) and `Nanoparticle_Toxicity_Code_Listing.pdf`
+(every source file, grouped by stage).
 
 ---
 
