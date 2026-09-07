@@ -1,0 +1,79 @@
+[
+  {
+    "authors": "Puzyn T., Rasulev B., Gajewicz A., Hu X., Dasari T.P., Michalkova A., Hwang H.M., Toropov A., Leszczynska D., Leszczynski J.",
+    "n_authors": 10,
+    "title": "Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles",
+    "journal": "Nature Nanotechnology",
+    "year": 2011,
+    "volume": "6",
+    "issue": "3",
+    "page": "175-178",
+    "doi": "10.1038/nnano.2011.10"
+  },
+  {
+    "authors": "Liu R., Rallo R., George S., Ji Z., Nair S., Nel A.E., Cohen Y.",
+    "n_authors": 7,
+    "title": "Classification NanoSAR Development for Cytotoxicity of Metal Oxide Nanoparticles",
+    "journal": "Small",
+    "year": 2011,
+    "volume": "7",
+    "issue": "8",
+    "page": "1118-1126",
+    "doi": "10.1002/smll.201002366"
+  },
+  {
+    "authors": "Oh E., Liu R., Nel A., Gemill K.B., Bilal M., Cohen Y., Medintz I.L.",
+    "n_authors": 7,
+    "title": "Meta-analysis of cellular toxicity for cadmium-containing quantum dots",
+    "journal": "Nature Nanotechnology",
+    "year": 2016,
+    "volume": "11",
+    "issue": "5",
+    "page": "479-486",
+    "doi": "10.1038/nnano.2015.338"
+  },
+  {
+    "authors": "Trinh T.X., Ha M.K., Choi J.S., Byun H.G., Yoon T.H.",
+    "n_authors": 5,
+    "title": "Curation of datasets, assessment of their quality and completeness, and nanoSAR classification model development for metallic nanoparticles",
+    "journal": "Environmental Science: Nano",
+    "year": 2018,
+    "volume": "5",
+    "issue": "8",
+    "page": "1902-1910",
+    "doi": "10.1039/c8en00061a"
+  },
+  {
+    "authors": "Furxhi I., Murphy F., Mullins M., Poland C.A.",
+    "n_authors": 4,
+    "title": "Machine learning prediction of nanoparticle in vitro toxicity: A comparative study of classifiers and ensemble-classifiers using the Copeland Index",
+    "journal": "Toxicology Letters",
+    "year": 2019,
+    "volume": "312",
+    "issue": null,
+    "page": "157-166",
+    "doi": "10.1016/j.toxlet.2019.05.016"
+  },
+  {
+    "authors": "Furxhi I., Murphy F., Mullins M., Arvanitis A., Poland C.A.",
+    "n_authors": 5,
+    "title": "Practices and Trends of Machine Learning Application in Nanotoxicology",
+    "journal": "Nanomaterials",
+    "year": 2020,
+    "volume": "10",
+    "issue": "1",
+    "page": "116",
+    "doi": "10.3390/nano10010116"
+  },
+  {
+    "authors": "Subramanian N.A., Palaniappan A.",
+    "n_authors": 2,
+    "title": "NanoTox: Development of a Parsimonious\n                    In Silico\n                    Model for Toxicity Assessment of Metal-Oxide Nanoparticles Using Physicochemical Features",
+    "journal": "ACS Omega",
+    "year": 2021,
+    "volume": "6",
+    "issue": "17",
+    "page": "11729-11739",
+    "doi": "10.1021/acsomega.1c01076"
+  }
+]
